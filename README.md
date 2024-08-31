@@ -47,8 +47,6 @@ I'm a senior student at University of Information Technology VNU-HCM specializin
 ### 🤝 Connect with me
 <p align="left">
 <a href="https://linkedin.com/in/cmwuaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cmwuaan" height="30" width="40" /></a>
-<a href="https://fb.com/cmwuaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cmwuaan" height="30" width="40" /></a>
-<a href="https://instagram.com/cmwuaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cmwuaan" height="30" width="40" /></a>
 </p>
 
 
